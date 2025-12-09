@@ -3,7 +3,7 @@
 # 📡 NetPractice — Networking Training Project
 
 <p align="center">
-    <img src="diapo/1_CHIDR.png" alt="Process" width="400"/>
+    <img src="diapo/1_CHIDR.png" alt="Process" width="800"/>
 </p>
 
 
