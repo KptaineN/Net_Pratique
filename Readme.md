@@ -2,12 +2,11 @@
 
 # 📡 NetPractice — Networking Training Project
 
-<details>
-<summary><strong>📷 Afficher / Masquer la bannière</strong></summary>
+
 <p align="center">
     <img src="diapo/panel.png" alt="Diapo" width="800"/>
 </p>
-</details>
+
 
 ---
 
