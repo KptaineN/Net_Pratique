@@ -19,17 +19,21 @@ Le but est de réussir à établir la communication entre différentes machines 
 
 ---
 
-## 🚀 Instructions
 
-| Étapes | Action |
-|------|--------|
-| 1️⃣ | Cloner le projet `git clone <url>` |
-| 2️⃣ | Ouvrir `index.html` dans un navigateur ou Live-Server |
-| 3️⃣ | Résoudre chaque niveau en configurant IP, masque, route, gateway |
-| 4️⃣ | Exporter la configuration des **10 levels** |
-| 5️⃣ | Déposer les 10 fichiers export `.txt/.cfg` **à la racine du repo** |
+## ⚡ Quick Rappel Général
 
-📌 *Les fichiers doivent être nommés par niveau* → `level1.cfg` … `level10.cfg`
+| Concept | Rôle |
+|---|---|
+| **IP Address** | Identifie une machine sur un réseau |
+| **Subnet Mask (CIDR)** | Définit la taille du réseau & plage IP |
+| **Gateway** | Point de sortie vers un autre réseau |
+| **Router** | Fait transiter les paquets entre réseaux |
+| **Switch** | Relie plusieurs machines dans un même LAN |
+| **Route** | Indique au système *par où envoyer le trafic* |
+| **Network ID / Broadcast** | Première & dernière IP du réseau, non utilisables |
+
+📌 Si deux hôtes sont sur **le même réseau → communication directe**  
+📌 Sinon → **passage par la gateway & route adaptée**
 
 ---
 
