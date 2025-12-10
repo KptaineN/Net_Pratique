@@ -115,7 +115,6 @@ Le but est de réussir à établir la communication entre différentes machines 
 | 8 | <details><summary>Clique pour voir</summary><img src="diapo/lvl8_NP.png" width="700"/></details> |
 | 9 | <details><summary>Clique pour voir</summary><img src="diapo/lvl9_NP.png" width="700"/></details> |
 
-> Tu peux compléter le tableau et ajouter les levels 1 à 10 si tu veux afficher tout proprement.
 
 ---
 
