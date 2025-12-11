@@ -109,12 +109,12 @@ Le but est de réussir à établir la communication entre différentes machines 
 ## 🧠 Résolutions Niveau → Réponses visuelles
 
 | Level | Aperçu |
-|---|---|
-| 6 | <details><summary>Clique pour voir</summary><img src="diapo/lvl6_NP.png" width="700"/></details> |
-| 7 | <details><summary>Clique pour voir</summary><img src="diapo/lvl7_NP.png" width="700"/></details> |
-| 8 | <details><summary>Clique pour voir</summary><img src="diapo/lvl8_NP.png" width="700"/></details> |
-| 9 | <details><summary>Clique pour voir</summary><img src="diapo/lvl9_NP.png" width="700"/></details> |
-
+|----|---|
+| 6  | <details><summary>Clique pour voir</summary><img src="diapo/lvl6_NP.png" width="700"/></details> |
+| 7  | <details><summary>Clique pour voir</summary><img src="diapo/lvl7_NP.png" width="700"/></details> |
+| 8  | <details><summary>Clique pour voir</summary><img src="diapo/lvl8_NP.png" width="700"/></details> |
+| 9  | <details><summary>Clique pour voir</summary><img src="diapo/lvl9_NP.png" width="700"/></details> |
+| 10 | <details><summary>Clique pour voir</summary><img src="diapo/lvl10_NP.png" width="700"/></details> |
 
 ---
 
